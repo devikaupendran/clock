@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    background-image: url("./car.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.clock-section{
+    width:100%;
+    margin-top: 50px;
+    padding: 20px 0;
+    position: relative;
+}
+
+#clock-display {
+    text-align: center;
+    font-size: 10rem;
+    color: white;
+    letter-spacing: 8px;
+  }
